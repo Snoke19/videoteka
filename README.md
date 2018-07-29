@@ -15,7 +15,7 @@ Programming language: C
 
 ![main_menu](https://user-images.githubusercontent.com/13545575/43363948-116cbfa4-9319-11e8-98f2-77a9e37d6d86.png)
 
-Displayed data on the screen;
+Displayed data on the screen;[dill]
 ![output_data](https://user-images.githubusercontent.com/13545575/43363955-3be309aa-9319-11e8-919d-e080aa0f4341.png)
 
 Adds records to the beginning or end of the file;
