@@ -9,7 +9,8 @@ performs the following operations:
 • Displays data on the screen; 
 • Adds records to the beginning or end of the file;        
 • Deletes all data about a movie whose number is specified by the user and displays; updated file contents on the screen; 
-• Sort the genres of films by alphabet; • List of films taken in certain countries; 
+• Sort the genres of films by alphabet; 
+• List of films taken in certain countries; 
 • List of movies that are given from the keyboard and start with a certain letter; 
 • List of films shot before 1992. 
 
