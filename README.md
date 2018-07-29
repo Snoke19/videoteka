@@ -15,7 +15,8 @@ Programming language: C
 
 ![main_menu](https://user-images.githubusercontent.com/13545575/43363948-116cbfa4-9319-11e8-98f2-77a9e37d6d86.png)
 
-Displayed data on the screen;[dill]
+Displayed data on the screen;
+
 ![output_data](https://user-images.githubusercontent.com/13545575/43363955-3be309aa-9319-11e8-919d-e080aa0f4341.png)
 
 Adds records to the beginning or end of the file;
@@ -28,13 +29,15 @@ Deletes all data about a movie whose number is specified by the user and display
 Sort the genres of films by alphabet; 
 ![sorting_by_ganre](https://user-images.githubusercontent.com/13545575/43363985-b68a542e-9319-11e8-8108-2bd4750abff7.png)
 
-List of films taken in certain countries;[dill]
+List of films taken in certain countries;
+
 ![films_by_country](https://user-images.githubusercontent.com/13545575/43363988-bd632fdc-9319-11e8-9939-4f263e703dd0.png)
 
 List of movies that are given from the keyboard and start with a certain letter;
 ![output_data_by_letter](https://user-images.githubusercontent.com/13545575/43364003-f1a0c9f8-9319-11e8-9375-16d7615ef3e9.png)
 
-List of films shot before 1992.[dill]
+List of films shot before 1992.
+
 ![films_by_date](https://user-images.githubusercontent.com/13545575/43364007-f7709282-9319-11e8-8184-8f390fa68a9e.png)
 
 
